@@ -10,6 +10,7 @@ A scalable offshore aquaculture project designed for high-efficiency fish produc
 
 ## Project Structure
 
+- [Project Concept](project-concept.md)
 - [Technical Design](technical-design.md)
 - [Operations Plan](operations-plan.md)
 - [Market Analysis](market-analysis.md)
