@@ -1,5 +1,7 @@
 # Iran Aquaculture Project
 
+![Aquaculture Master Map](images/iran-aqua-map.jpg)
+
 ## Quick Overview
 
 A scalable offshore aquaculture project designed for high-efficiency fish production, export-driven revenue, and sustainable marine farming in the Caspian Sea and Persian Gulf.
@@ -25,8 +27,9 @@ A scalable offshore aquaculture project designed for high-efficiency fish produc
 This project presents a scalable and investment-oriented aquaculture development plan focused on offshore fish farming in Iran.
 
 The project targets two strategic marine regions:
-- The Caspian Sea (Northern Iran)
-- The Persian Gulf & Oman Sea (Southern Iran)
+
+- The Caspian Sea (Northern Iran)  
+- The Persian Gulf & Oman Sea (Southern Iran)  
 
 The goal is to develop high-efficiency fish farming systems that reduce production costs, optimize logistics, and generate export-driven revenue.
 
@@ -46,6 +49,7 @@ The project is designed to:
 - Contribute to national economic growth and foreign currency inflow  
 
 👉 Macroeconomic Impact:
+
 - Strengthening food security  
 - Supporting coastal economic development  
 - Increasing non-oil export capacity  
