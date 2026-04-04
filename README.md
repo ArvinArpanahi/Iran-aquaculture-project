@@ -10,16 +10,16 @@ A scalable offshore aquaculture project designed for high-efficiency fish produc
 
 ## Project Structure
 
-- [Project Concept](project-concept.md)
-- [Technical Design](technical-design.md)
-- [Operations Plan](operations-plan.md)
-- [Market Analysis](market-analysis.md)
-- [Financial Model](financial-model.md)
-- [Environmental Impact](environmental-impact.md)
-- [Risk Analysis](risk-analysis.md)
-- [Implementation Roadmap](implementation-roadmap.md)
-- [Team](team.md)
-- [Partners](partners.md)
+- [Project Concept](01-project-concept.md)
+- [Technical Design](02-technical-design.md)
+- [Operations Plan](03-operations-plan.md)
+- [Market Analysis](04-market-analysis.md)
+- [Financial Model](05-financial-model.md)
+- [Environmental Impact](06-environmental-impact.md)
+- [Risk Analysis](07-risk-analysis.md)
+- [Implementation Roadmap](08-implementation-roadmap.md)
+- [Team](09-team.md)
+- [Partners](10-partners.md)
 
 ---
 
